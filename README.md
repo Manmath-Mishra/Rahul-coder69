@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahul-coder69
+- 👋 Hi, I’m @Manmath Mishra
 - 👀 I’m interested in coding games and apps and my primary language has always been python.
 - 🌱 I’m currently learning python, JavaScript , HTML and CSS.
 
